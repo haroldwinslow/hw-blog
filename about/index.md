@@ -12,3 +12,23 @@ herald: (noun) one who actively promotes or advocates; (verb) to signal the appr
 win + slow: to attain victory via patient planning
 
 My background is in math and economics. I like reading, eating mashed potatoes, and doing various physical activities. 
+
+I would love to hear from you at harold.winslow@protonmail.com. 
+
+Below are some quotes that I like. 
+
+Fix the fixable. - Dan John
+
+Victory through attrition. - Laird Hamilton
+
+A good plan violently executed now is better than a perfect plan executed next week. - General Patton
+
+A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects. - Robert Heinlein
+
+You can get a lot done in this world if you are willing to let somebody else take the credit. - Robert Caro
+
+If you don't have a competitive advantage, don't compete. - Jack Welch
+
+Overkill is underrated. - Colonel Hannibal Smith, The A-Team
+
+The generalist always survives. - Biologists
