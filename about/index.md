@@ -19,8 +19,6 @@ Below are some quotes that I like.
 
 Fix the fixable. - Dan John
 
-Victory through attrition. - Laird Hamilton
-
 A good plan violently executed now is better than a perfect plan executed next week. - General Patton
 
 A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects. - Robert Heinlein
