@@ -1,7 +1,7 @@
 ---
 title: GCFL
 description: 
-date: 
+date: 7/13/2021
 tags: 
 layout: layouts/post.njk
 ---
