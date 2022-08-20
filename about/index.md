@@ -30,3 +30,5 @@ If you don't have a competitive advantage, don't compete. - Jack Welch
 Overkill is underrated. - Colonel Hannibal Smith, The A-Team
 
 The generalist always survives. - Biologists
+
+To give anything less than your best is to sacrifice the gift. - Steve Prefontaine
