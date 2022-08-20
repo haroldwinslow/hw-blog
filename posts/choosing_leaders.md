@@ -1,7 +1,7 @@
 ---
 title: Choosing Leaders
 description:
-date: 
+date: 4/4/2022
 tags:
 layout: layouts/post.njk
 ---
