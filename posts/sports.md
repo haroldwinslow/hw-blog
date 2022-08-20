@@ -1,7 +1,6 @@
 ---
 title: Sports
 description:
-date: timeless
 tags:
 layout: layouts/post.njk
 ---
