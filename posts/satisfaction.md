@@ -1,7 +1,7 @@
 ---
 title: Satisfaction
 description:
-date: 
+date: 8/19/2020
 tags:
 layout: layouts/post.njk
 ---
