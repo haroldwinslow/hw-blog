@@ -1,7 +1,7 @@
 ---
 title: On Cheating
 description:
-date: 
+date: 7/19/2022
 tags:
 layout: layouts/post.njk
 ---
