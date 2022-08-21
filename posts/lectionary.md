@@ -1,7 +1,7 @@
 ---
 title: Lectionary
 description:
-date: 08/20/2022
+date: 2022-08-20
 tags:
 layout: layouts/post.njk
 ---
