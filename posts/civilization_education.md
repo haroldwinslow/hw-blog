@@ -1,7 +1,7 @@
 ---
 title: Civilization VI as an Educational Tool
 description: 
-date: 12/20/2021
+date: 2021-12-20
 tags:
 layout: layouts/post.njk
 ---
