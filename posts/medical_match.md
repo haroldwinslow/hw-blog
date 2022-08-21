@@ -1,7 +1,7 @@
 ---
 title: Against the Medical Match
 description:
-date: 2/5/2021
+date: 2021-02-05
 tags:
 layout: layouts/post.njk
 ---
