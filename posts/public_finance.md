@@ -1,7 +1,7 @@
 ---
 title: Public Finance
 description: 
-date: 10/28/2020
+date: 2020-10-28
 tags:
 layout: layouts/post.njk
 ---
