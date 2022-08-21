@@ -1,7 +1,7 @@
 ---
 title: Sports
 description:
-date: 6/23/2020
+date: 2020-06-23
 tags:
 layout: layouts/post.njk
 ---
