@@ -1,7 +1,7 @@
 ---
 title: Debt is Just a Bill
 description:
-date: 9/14/2021
+date: 2021-09-14
 tags:
 layout: layouts/post.njk
 ---
