@@ -15,9 +15,7 @@ My background is in math and economics. I like reading, eating mashed potatoes, 
 
 I would love to hear from you at harold.winslow@protonmail.com. 
 
-Below are some quotes that I like. 
-
-Fix the fixable. - Dan John
+---
 
 A good plan violently executed now is better than a perfect plan executed next week. - General Patton
 
@@ -32,3 +30,5 @@ Overkill is underrated. - Colonel Hannibal Smith, The A-Team
 The generalist always survives. - Biologists
 
 To give anything less than your best is to sacrifice the gift. - Steve Prefontaine
+
+You can't be too careful about good information. - John Boyd
