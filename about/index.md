@@ -6,6 +6,7 @@ eleventyNavigation:
   key: About
   order: 3
 ---
+Thank you for reading my blog!
 
 herald: (noun) one who actively promotes or advocates; (verb) to signal the approach of: foreshadow
 
@@ -14,6 +15,8 @@ win + slow: to attain victory via patient planning
 My background is in math and economics. I like reading, eating mashed potatoes, and doing various physical activities. 
 
 I would love to hear from you at harold.winslow@protonmail.com. 
+
+You can read my jokes on [Twitter](https://twitter.com/harold_winslow_) or view my beautiful messes on [Instagram](https://www.instagram.com/harold_winslow_/).
 
 ---
 
@@ -32,3 +35,5 @@ The generalist always survives. - Biologists
 To give anything less than your best is to sacrifice the gift. - Steve Prefontaine
 
 You can't be too careful about good information. - John Boyd
+
+Think big, start small. - Me
