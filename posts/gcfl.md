@@ -42,3 +42,5 @@ This area includes reading, writing, arithmetic, and science skills.
 * Cook a meal for 8 people. Fix something broken around the house.
 * Make something beautiful and put it on display. Make something functional and use it.
 * Mediate a conflict. Persuade someone of a view they're initially skeptical of. Present on a mundane topic to a group of people.
+
+Remember: fitness is the ability to tolerate and generate extremes, both physically and mentally. If you find yourself gravitating to tamer environments with fewer stressors, that is a a sign you are losing GCFL. 
