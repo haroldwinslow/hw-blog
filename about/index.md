@@ -16,7 +16,7 @@ My background is in math and economics. I like reading, eating mashed potatoes, 
 
 I would love to hear from you at harold.winslow@protonmail.com. 
 
-You can read my jokes on [Twitter](https://twitter.com/harold_winslow_) or view my beautiful messes on [Instagram](https://www.instagram.com/harold_winslow_/).
+You can read my jokes on [Twitter](https://twitter.com/harold_winslow_), view my beautiful messes on [Instagram](https://www.instagram.com/harold_winslow_/), or listen to me narrate short stories on [my podcast](https://anchor.fm/harold-winslow).
 
 ---
 
