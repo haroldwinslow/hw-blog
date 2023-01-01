@@ -40,4 +40,6 @@ Far and away the best prize that life offers is the chance to work hard at work 
 
 Think big, start small. - Me
 
-Satisfaction in proportion to sacrifice. - Me
+Satisfaction follows sacrifice. - Me
+
+Good. - Jocko Willink, in response to anything bad
