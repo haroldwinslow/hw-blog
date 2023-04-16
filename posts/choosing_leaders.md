@@ -14,7 +14,7 @@ This formulation would effectively allow congress to partition the electorate in
 
 As a practical matter, it would probably be best to allow voters to choose more than one candidate since so many options would be available on the ballot. 
 
-## Proposal: treat voting like jury duty
+### Proposal: treat voting like jury duty
 
 First, there is such a thing as a good president or a bad president. This is somewhat independent of your ideological leanings. The vast majority of people will agree that certain extreme outcomes (like sustainable 5% annual GDP growth or major war) are desirable or undesirable. And leaders differ in their capacity to move the country towards or away from outcomes like these.
 
@@ -55,3 +55,9 @@ In practice, it is hard to see this idea getting any traction from the two major
 Additionally limit the total field to 50 candidates, with preference determined by recency of service and length in office. This restriction would screen for seriousness and competence and would provide voters with a field of candidates that were somewhat easier to compare since they would be more similar to one another than the candidates we get today. Losing variance is bad in that it eliminates some of the very best potential candidates, but it should also remove most of the very worst, and that may be much more important. 
 
 A nice side effect of this approach is that there would then be a defined pool of candidates to fund in any election year. It would then be easy enough to provide public funds to each candidate in equal amounts for campaign purposes while severely restricting or eliminating private contributions. Since regulatory capture is the root of all evil, this would be a great advantage. 
+
+### Proposal: give legislators a fixed number of votes instead of a fixed term
+
+Say, for the sake of example, that there are 100 votes in the Senate per year. Then by today's system, every state is allotted 200 votes per year or 1200 votes per session. Imagine that your senators only vote on half of the issues, so that your senators have 600 votes remaining at the end of the session. Then at the next election, the incumbents remain in power (with 600 more votes to use between them over the course of their lives) while the voters choose who will be awarded the next set of 1200 votes. Award the votes proportionally, so that a candidate who receives 10% of the popular vote receives 120 votes in the Senate. 
+
+This system allows candidates to market themselves in ways that they can't today (e.g. as single-issue voters), and it would probably allow for a better fit between the populace and their politicians. A potential downside is that it might introduce additional strategizing among senate leaders in an effort to manage vote counts. 
