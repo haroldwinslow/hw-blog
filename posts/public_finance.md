@@ -41,3 +41,7 @@ Officials could convert these bonds into cash in two ways depending on the durat
 Note: being a forced seller is never good, especially if others know it. However, the US bond market is big enough that the forced sale of a few politician's holdings during a particular week shouldn't have a noticeable effect on the market price.
 
 On the whole, we would expect this scheme to make politicians less responsive to lobbyists, more responsive to the needs of the poor, and more responsive to the collective judgment of the bond market.
+
+### Proposal: allow certain forms of service to substitute for taxes
+
+Serve in the military and you pay no taxes for life. Serve in any public-funded role and pay no taxes on the income you earn through that role. Donate a kidney and you pay no taxes for 20 years. Donate eggs (that are actually used), or plasma, or blood, and get $x off your tax bill. Play around with the incentives until there are no longer shortages of these commodities. 
