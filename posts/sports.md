@@ -40,6 +40,20 @@ The field is 30 yards by 30 yards. Teams of three begin the game with only one m
 
 This could be applied to any sport, but would be especially interesting for a game like soccer which is long and low-scoring. Let the value of a goal be tied to how long the game has been played. Making goals in the first minute worth 90 points and those in the final minute worth 1 point would encourage a frenzy of activity in the opening half, while doing the reverse would lead to very exciting finishes. Strategy in terms of training, game play, and use of timeouts would all change as well.
 
+### Ambidextrous Golf
+
+In the name of balance, play two balls at each hole - one left-handed and one right-handed. You're still limited to 14 total clubs, so choose 7 for each hand. Player with the lowest total score wins. 
+
+### King/Queen of the Track
+
+Take the top two finishers in the 100m, 200m, 400m, 800m, and 1600m from a track meet. There may be repeat winners; that is okay (this is a tournament, so the ideal number of contestants is 8, not 10). 
+
+Two racers line up, one (the hare) perhaps 25m ahead of the other (the hound). They race to see how quickly the hound can catch the hare. The race ends when the hare has been caught or when the hare makes it a mile, whichever occurs first. After a 5+ minute rest, they switch spots. The winner is the racer who caught the other in less distance. Ties (which in practice should only occur if each race ended after a mile) are broken by a 40m dash. Repeat the races tournament-style to crown a king/queen of the track.
+
+The 25m gap is a critical parameter to get right. Make the gap too small and the sprinters will always win; too large and it will always be the endurance athletes. You'll know you have the gap set properly when the 400m runners win most of the time but you're never sure how a race between a 100m runner and a 1600m runner will turn out. 
+
+This version of racing introduces a bit of strategy since you have to guage your own sprint/endurance profile against that of your competitor. Can you close a 25m gap in 200m with an all-out sprint? Or are the two of you close enough in sprint speed that you need to pace yourself more? And as the hare, should you jump out to increase the gap quickly, or should you run at a steady pace until the hound is closer? Most races would probably start near 100% and fade as the athletes tire. It would likely be more grueling than a 400m or 800m run and would introduce some drama not normally found in track.  
+
 ### Space sports
 
 The idea of sports in space is not original to me, but there is undoubtedly room for innovation in this domain. Low to no gravity environments permit much greater vertical movement, and no atmosphere means that you can send projectiles over vast distances. There are lots of options here, with even the most rudimentary activities sounding appealing (e.g. catch over hundreds of yards). 
