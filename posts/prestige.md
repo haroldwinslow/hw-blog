@@ -1,5 +1,10 @@
-### Prestige is Slack
-
+---
+title: Prestige is Slack
+description: 
+date: 2023-06-05
+tags:
+layout: layouts/post.njk
+---
 Here are some categories of things with their elements listed roughly in order of level of prestige: 
 
 - Sports: combat, football/hockey/basketball/baseball/soccer, running/swimming, tennis, golf, polo/sailing/ballet
