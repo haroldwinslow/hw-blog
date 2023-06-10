@@ -1,4 +1,10 @@
-### Potatoes Poem
+---
+title: Potatoes Poem
+description:
+date: 2023-06-05
+tags:
+layout: layouts/post.njk
+---
 
 These are my thoughts re: the pomme de terre
 I very much hope you see that they are fair
