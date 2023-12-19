@@ -54,9 +54,15 @@ The 25m gap is a critical parameter to get right. Make the gap too small and the
 
 This version of racing introduces a bit of strategy since you have to guage your own sprint/endurance profile against that of your competitor. Can you close a 25m gap in 200m with an all-out sprint? Or are the two of you close enough in sprint speed that you need to pace yourself more? And as the hare, should you jump out to increase the gap quickly, or should you run at a steady pace until the hound is closer? Most races would probably start near 100% and fade as the athletes tire. It would likely be more grueling than a 400m or 800m run and would introduce some drama not normally found in track.  
 
-### Medicine ball tennis
+As a variation, route the course through the surrounding area - over hurdles, through the sand pits, up the bleachers, etc - for a more dynamic and well-rounded race. 
+
+### Heavycatch
 
 Two players stand on opposite sides of a tennis court, one holding a medicine ball. He throws it over the net and scores a point if his opponent can't catch it before it hits the ground. The boundaries are the net, the outside of the court, the baseline, and the midline of the court. The returner is allowed to take two steps before throwing the ball back over the net. Follow traditional tennis scoring. This is a good sport to train power endurance. 
+
+### Tug/Push-of-War
+
+Tug-of-war is the familiar children's game. Push-of-war would require two parties to grasp a common bar and push against each other until one falls over or is pushed behind a set line. Pair the two together in a round robin tournament to find the overall champion in this full-body test of strength. 
 
 ### Space sports
 
