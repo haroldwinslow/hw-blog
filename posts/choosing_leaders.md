@@ -50,7 +50,9 @@ There would be ample time for deliberation, and some experimentation would need 
 There would be a lot of details to sort out, like what outside information the voters should have access to during their service and under what circumstances they should be allowed to opt out of service. But one can imagine that the net effect would be a much better-informed population of voters.
 In practice, it is hard to see this idea getting any traction from the two major parties since it gives equal airtime to parties which presently have far smaller budgets. But it may have a chance of adoption in local politics where party budgets are not as decisive and there may be fewer than five candidates running for office.
 
-### Proposal: limit presidential candidates to former governors
+### Proposal: limit presidential candidates to qualified people
+
+"Qualified people": former or existing governors, generals, ambassadors, and directors of federal agencies. 
 
 Additionally limit the total field to 50 candidates, with preference determined by recency of service and length in office. This restriction would screen for seriousness and competence and would provide voters with a field of candidates that were somewhat easier to compare since they would be more similar to one another than the candidates we get today. Losing variance is bad in that it eliminates some of the very best potential candidates, but it should also remove most of the very worst, and that may be much more important. 
 
