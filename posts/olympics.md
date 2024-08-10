@@ -20,3 +20,5 @@ Cut the triathlon and replace it with two biathlons (land and sea - run + bike a
 Add in more "combat" events in the form of sumo wrestling, arm wrestling, and tug of war. 
 
 Add medleys for running (40m, 200m, 1000m, 5000m), throwing (shot put, discus, javelin, hammer throw), jumping (vertical jump, broad jump, long jump, high jump), carrying (overhead, bear hug, farmer’s walk, yoke walk), lifting (Atlas stone to shoulder height, overhead press, half squat from pins, weighted pulldown), and wrestling (freestyle, sumo, arm, and tug of war). 
+
+Add a new pentathlon consisting of the 1000m run, shot put, long jump, farmer's walk, and Atlas stone to shoulder height. 
