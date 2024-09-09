@@ -44,7 +44,11 @@ This could be applied to any sport, but would be especially interesting for a ga
 
 In the name of balance, play two balls at each hole - one left-handed and one right-handed. You're still limited to 14 total clubs, so choose 7 for each hand. Player with the lowest total score wins. 
 
-### King/Queen of the Track
+### King/Queen of the Track 1
+
+Begin with 8 runners, perhaps one per school or something similar. Have them race 50m. Eliminate the loser. Rest 1 minute, during which time they return to the starting blocks. Race 100m and eliminate the loser again. Now rest 2 minutes. Repeat with the 200m, 400m, 800m, 1600m, and finally the 3200m, resting an additional minute after each race. 
+
+### King/Queen of the Track 2
 
 Take the top two finishers in the 100m, 200m, 400m, 800m, and 1600m from a track meet. There may be repeat winners; that is okay (this is a tournament, so the ideal number of contestants is 8, not 10). 
 
