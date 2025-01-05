@@ -6,15 +6,11 @@ eleventyNavigation:
   key: About
   order: 3
 ---
-Thank you for reading my blog!
-
 herald: (noun) one who actively promotes or advocates; (verb) to signal the approach of: foreshadow
 
 win + slow: to attain victory via patient planning
 
-My background is in math and economics. I like reading, eating mashed potatoes, and doing various physical activities. 
-
-I would love to hear from you at harold.winslow@protonmail.com. 
+You can contact me at harold.winslow@protonmail.com. 
 
 You can read my jokes on [Twitter](https://twitter.com/harold_winslow_).
 
@@ -37,9 +33,3 @@ To give anything less than your best is to sacrifice the gift. - Steve Prefontai
 You can't be too careful about good information. - John Boyd
 
 Far and away the best prize that life offers is the chance to work hard at work worth doing. - Theodore Roosevelt
-
-Think big, start small. - Me
-
-Satisfaction follows sacrifice. - Me
-
-Good. - Jocko Willink, in response to anything bad
