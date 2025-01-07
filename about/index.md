@@ -14,6 +14,8 @@ You can contact me at harold.winslow@protonmail.com.
 
 You can read my jokes on [Twitter](https://twitter.com/harold_winslow_).
 
+If you have benefitted from following The Way, you might consider [buying me a coffee](https://buymeacoffee.com/harold.winslow). 
+
 ---
 
 A good plan violently executed now is better than a perfect plan executed next week. - General Patton
