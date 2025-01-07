@@ -208,7 +208,7 @@ Things being investigated, knowledge became complete. Their knowledge being comp
 
 It cannot be, when the root is neglected, that what should spring from it will be well ordered. It never has been the case that what was of great importance has been slightly cared for, and, at the same time, that what was of slight importance has been greatly cared for.
 
----
+--
 
 While there are no stirrings of pleasure, anger, sorrow, or joy, the mind may be said to be in the state of Equilibrium. When those feelings have been stirred, and they act in their due degree, there ensues what may be called the state of Harmony. This Equilibrium is the great root from which grow all the human actings in the world, and this Harmony is the universal path which they all should pursue.
 
@@ -224,7 +224,7 @@ The superior man, while there is anything he has not studied, or while in what h
 
 It is only he who is possessed of the most complete sincerity that can exist under heaven, who can give its fun development to his nature. Able to give its full development to his own nature, he can do the same to the nature of other men. Able to give its full development to the nature of other men, he can give their full development to the natures of animals and things. Able to give their full development to the natures of creatures and things, he can assist the transforming and nourishing powers of Heaven and Earth. Able to assist the transforming and nourishing powers of Heaven and Earth, he may with Heaven and Earth form a ternion. Next to the above is he who cultivates to the utmost the shoots of goodness in him. From those he can attain to the possession of sincerity. This sincerity becomes apparent. From being apparent, it becomes manifest. From being manifest, it becomes brilliant. Brilliant, it affects others. Affecting others, they are changed by it. Changed by it, they are transformed. It is only he who is possessed of the most complete sincerity that can exist under heaven, who can transform. 
 
----
+--
 
 Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a man of complete virtue, who feels no discomposure though men may take no note of him?
 
@@ -648,7 +648,7 @@ If we are to be a really great people, we must strive in good faith to play a gr
 
 If we stand idly by, if we seek merely swollen, slothful ease and ignoble peace, if we shrink from the hard contests where men must win at hazard of their lives and at the risk of all they hold dear, then the bolder and stronger peoples will pass us by, and will win for themselves the domination of the world. Let us therefore boldly face the life of strife, resolute to do our duty well and manfully; resolute to uphold righteousness by deed and by word; resolute to be both honest and brave, to serve high ideals, yet to use practical methods. Above all, let us shrink from no strife, moral or physical, within or without the nation, provided we are certain that the strife is justified, for it is only through strife, through hard and dangerous endeavor, that we shall ultimately win. 
 
----
+--
 
 Discarding the two extremes, the men who deliberately work for evil, and the men who are unwilling or incapable of working for good, there remains the great mass of men who do desire to be efficient, who do desire to make this world a better place to live in, and to do what they can toward achieving cleaner minds and more wholesome bodies. To these, after all, we can only say: Strive manfully for righteousness, and strive so as to make your efforts for good count. You are not to be excused if you fail to try to make things better; and the very phrase “trying to make things better” implies trying in practical fashion. One man’s capacity is for one kind of work and another man’s capacity for another kind of work. One affects certain methods and another affects entirely different methods. All this is of little concern. What is of really vital importance is that something should be accomplished, and that this something should be worthy of accomplishment. The field is of vast size, and the laborers are always too few. There is not the slightest excuse for one sincere worker looking down upon another because he chooses a different part of the field and different implements. It is inexcusable to refuse to work, to work slackly or perversely, or to mar the work of others. 
 
@@ -656,13 +656,13 @@ No man is justified in doing evil on the ground of expediency. He is bound to do
 
 We are in honor bound to put into practice what we preach; to remember that we are not to be excused if we do not; and that in the last resort no material prosperity, no business acumen, no intellectual development of any kind, can atone in the life of a nation for the lack of the fundamental qualities of courage, honesty, and common sense. 
 
----
+--
 
 In charity the one thing always to be remembered is that, while any man may slip and should at once be helped to rise to his feet, yet no man can be carried with advantage either to him or to the community. The greatest possible good can be done by the extension of a helping hand at the right moment, but the attempt to carry any one permanently can end in nothing but harm. 
 
 No one of us can make the world move on very far, but it moves at all only when each one of a very large number does his duty. 
 
----
+--
 
 Bodily vigor is good, and vigor of intellect is even better, but far above both is character. 
 
@@ -672,13 +672,13 @@ We are bidden not merely to be harmless as doves, but also as wise as serpents. 
 
 Perhaps there is no more important component of character than steadfast resolution. The boy who is going to make a great man, or is going to count in any way in after life, must make up his mind not merely to overcome a thousand obstacles, but to win in spite of a thousand repulses or defeats. He may be able to wrest success along the lines on which he originally started. He may have to try something entirely new. On the one hand, he must not be volatile and irresolute, and, on the other hand, he must not fear to try a new line because he has failed in another. 
 
----
+--
 
 When we pay homage to the hardy, grim, resolute men who, with incredible toil and risk, laid deep the foundations of the civilization that we inherit, let us steadily remember that the only homage that counts is the homage of deeds - not merely of words. 
 
 We hold work not as a curse but as a blessing, and we regard the idler with scornful pity. It would be in the highest degree undesirable that we should all work in the same way or at the same things, and for the sake of the real greatness of the nation we should in the fullest and most cordial way recognize the fact that some of the most needed work must, from its very nature, be unremunerative in a material sense. Each man must choose so far as the conditions allow him the path to which he is bidden by his own peculiar powers and inclinations. But if he is a man he must in some way or shape do a man’s work. If after making all the effort that his strength of body and of mind permits, he yet honorably fails, why, he is still entitled to a certain share of respect because he has made the effort. But if he does not make the effort, or if he makes it half-heartedly and recoils from the labor, the risk, or the irksome monotony of his task, why, he has forfeited all right to our respect, and has shown himself a mere cumberer of the earth. It is not given to us all to succeed, but it is given to us all to strive manfully to deserve success. 
 
----
+--
 
 The law of life is work, and work in itself, so far from being a hardship, is a great blessing, provided, always, it is carried on under conditions which preserves man’s self-respect and which allow him to develop his own character and rear his children so that he and they, as well as the whole community of which he and they are part, may steadily move onward and upward. The idler, rich or poor, is at best a useless and is generally a noxious member of the community. To whom much has been given, from him much is rightfully expected, and a heavy burden of responsibility rests upon the man of means to justify by his actions the social conditions which have rendered it possible for him or his forefathers to accumulate and to keep the property he enjoys. He is not to be excused if he does not render full measure of service to the State and to the community at large. There are many ways in which this service can be rendered, -in art, in literature, in philanthropy, as a statesman, as a soldier, -but in some way he is in honor bound to render it, so that benefit may accrue to his brethren who have been less favored by fortune than he has been. In short, he must work, and work not only for himself, but for others. If he does not work, he fails not only in his duty to the rest of the community, but he fails signally in his duty to himself. There is no need of envying the idle. Ordinarily, we can afford to treat them with impatient contempt; for when they fail to do their duty they fail to get from life the highest and keenest pleasure that life can give. 
 
@@ -686,7 +686,7 @@ To do our duty - that is the summing up of the whole matter. We must do our duty
 
 We must all learn the two lessons  - the lesson of self-help and the lesson of giving help to and receiving help from our brother. There is not a man of us who does not sometimes slip, who does not sometimes need a helping hand; and woe to him who, when the chance comes, fails to stretch out that helping hand. Yet though each man can and ought thus to be helped at times, he is lost beyond redemption if he becomes so dependent upon outside help that he feels that his own exertions are secondary. Any man at times will stumble, and it is then our duty to lift him up and set him on his feet again; but no man can be permanently carried, for if he expects to be carried he shows that he is not worth carrying. 
 
----
+--
 
 No man can be a good citizen who is not a good husband and a good father, who is not honest in his dealings with other men and women, faithful to his friends and fearless in the presence of his foes, who has not got a sound heart, a sound mind, and a sound body. 
 
@@ -694,11 +694,11 @@ A race must be strong and vigorous; it must be a race of good fighters and good 
 
 Freedom is not a gift that tarries long in the hands of cowards: nor yet does it tarry long in the hands of the sluggard and the idler, in the hands of the man so much absorbed in the pursuit of pleasure or in the pursuit of gain, or so much wrapped up in his own easy home life as to be unable to take his part in the rough struggle with his fellow men for political supremacy. 
 
----
+--
 
 It is not the critic who counts: not the man who points out how the strong man stumbles or where the doer of deeds could have done better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood, who strives valiantly, who errs and comes up short again and again, because there is no effort without error or shortcoming, but who knows the great enthusiasms, the great devotions, who spends himself in a worthy cause; who, at the best, knows, in the end, the triumph of high achievement, and who, at the worst, if he fails, at least he fails while daring greatly, so that his place shall never be with those cold and timid souls who knew neither victory nor defeat.
 
----
+--
 
 Don’t hit at all if it’s honorably possible to avoid hitting, but never hit soft!
 
@@ -813,7 +813,7 @@ Shun negative-sum acts; seek positive-sum acts. Honor your origins. Steward the 
 
 Rest on the sabbath. Eat heartily.  Bask in warmth. Walk, dance, play, and read. Attend to your family and friends. 
 
----
+--
 
 A dragon grew in two men’s minds. With courage that felt like fear, the first man slew the beast and ate its heart. He slept well that night. With cowardice that also felt like fear, the second man hid from the dragon. He lies awake still. 
 
