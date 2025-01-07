@@ -102,7 +102,7 @@ Be ready to suffer many adversities and many kinds of trouble in this miserable 
 
 ### Brontë
 
-####Life
+#### Life
 Life, believe, is not a dream
 So dark as sages say;
 Oft a little morning rain
@@ -131,28 +131,47 @@ Can courage quell despair!
 ### Christ
 
 Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are those who mourn, for they will be comforted. Blessed are the meek, for they will inherit the earth. Blessed are those who hunger and thirst for righteousness, for they will be filled. Blessed are the merciful, for they will be shown mercy. Blessed are the pure in heart, for they will see God. Blessed are the peacemakers, for they will be called children of God. Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven. 
+
 Blessed are you when people insult you, persecute you and falsely say all kinds of evil against you because of me. Rejoice and be glad, because great is your reward in heaven, for in the same way they persecuted the prophets who were before you.
+
 You are the light of the world. A town built on a hill cannot be hidden. Neither do people light a lamp and put it under a bowl. Instead they put it on its stand, and it gives light to everyone in the house. In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.
+
 You have heard that it was said to the people long ago, ‘You shall not murder, and anyone who murders will be subject to judgment.’ But I tell you that anyone who is angry with a brother or sister will be subject to judgment. 
+
 Settle matters quickly with your adversary who is taking you to court. Do it while you are still together on the way, or your adversary may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison. Truly I tell you, you will not get out until you have paid the last penny.
+
 You have heard that it was said, ‘You shall not commit adultery.’ But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart. If your right eye causes you to stumble, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell. And if your right hand causes you to stumble, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to go into hell.
+
 You have heard that it was said, ‘Eye for eye, and tooth for tooth.’ But I tell you, do not resist an evil person. If anyone slaps you on the right cheek, turn to them the other cheek also. And if anyone wants to sue you and take your shirt, hand over your coat as well.  If anyone forces you to go one mile, go with them two miles.  Give to the one who asks you, and do not turn away from the one who wants to borrow from you.
 You have heard that it was said, ‘Love your neighbor and hate your enemy.’  But I tell you, love your enemies and pray for those who persecute you,  that you may be children of your Father in heaven. He causes his sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous. If you love those who love you, what reward will you get? Are not even the tax collectors doing that? And if you greet only your own people, what are you doing more than others? Do not even pagans do that?  Be perfect, therefore, as your heavenly Father is perfect.
+
 Be careful not to practice your righteousness in front of others to be seen by them. If you do, you will have no reward from your Father in heaven.
  When you give to the needy, do not let your left hand know what your right hand is doing, so that your giving may be in secret. Then your Father, who sees what is done in secret, will reward you.
+ 
 When you pray, go into your room, close the door and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you.  And when you pray, do not keep on babbling, for your Father knows what you need before you ask him.
+
 This, then, is how you should pray: ‘Our Father in heaven, hallowed be your name,  your kingdom come, your will be done, on earth as it is in heaven.  Give us today our daily bread. And forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from the evil one.’
+
 For if you forgive other people when they sin against you, your heavenly Father will also forgive you. But if you do not forgive others their sins, your Father will not forgive your sins.
+
 Do not store up for yourselves treasures on earth, where moths and vermin destroy, and where thieves break in and steal. But store up for yourselves treasures in heaven, where moths and vermin do not destroy, and where thieves do not break in and steal. For where your treasure is, there your heart will be also.
+
 No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money. Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothes?  Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they? Can any one of you by worrying add a single hour to your life?
+
 And why do you worry about clothes? See how the flowers of the field grow. They do not labor or spin. Yet I tell you that not even Solomon in all his splendor was dressed like one of these. If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you—you of little faith? So do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’ For the pagans run after all these things, and your heavenly Father knows that you need them. But seek first his kingdom and his righteousness, and all these things will be given to you as well.  Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.
 Do not judge, or you too will be judged. For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you.
+
 Why do you look at the speck of sawdust in your brother’s eye and pay no attention to the plank in your own eye?  How can you say to your brother, ‘Let me take the speck out of your eye,’ when all the time there is a plank in your own eye?  You hypocrite, first take the plank out of your own eye, and then you will see clearly to remove the speck from your brother’s eye.
+
 Do not give dogs what is sacred; do not throw your pearls to pigs. If you do, they may trample them under their feet, and turn and tear you to pieces.
 Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.  For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
+
 Which of you, if your son asks for bread, will give him a stone?  Or if he asks for a fish, will give him a snake?  If you, then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give good gifts to those who ask him!  So in everything, do to others what you would have them do to you.
+
 Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. But small is the gate and narrow the road that leads to life, and only a few find it.
+
 Watch out for false prophets. They come to you in sheep’s clothing, but inwardly they are ferocious wolves.  By their fruit you will recognize them. Do people pick grapes from thornbushes, or figs from thistles?  Likewise, every good tree bears good fruit, but a bad tree bears bad fruit.  A good tree cannot bear bad fruit, and a bad tree cannot bear good fruit.  Every tree that does not bear good fruit is cut down and thrown into the fire.  Thus, by their fruit you will recognize them.
+
 Everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock. The rain came down, the streams rose, and the winds blew and beat against that house; yet it did not fall, because it had its foundation on the rock.  But everyone who hears these words of mine and does not put them into practice is like a foolish man who built his house on sand.  The rain came down, the streams rose, and the winds blew and beat against that house, and it fell with a great crash.
 
 ### Churchill
@@ -182,6 +201,7 @@ We shall never turn from our purpose, however sombre the road, however grievous 
 Let us move forward together in discharge of our mission and our duty, fearing God and nothing else. 
 
 ### Confucius
+
 The ancients who wished to illustrate illustrious virtue throughout the kingdom, first ordered well their own states. Wishing to order well their states, they first regulated their families. Wishing to regulate their families, they first cultivated their persons. Wishing to cultivate their persons, they first rectified their hearts. Wishing to rectify their hearts, they first sought to be sincere in their thoughts. Wishing to be sincere in their thoughts, they first extended to the utmost their knowledge. Such extension of knowledge lay in the investigation of things.
 
 Things being investigated, knowledge became complete. Their knowledge being complete, their thoughts were sincere. Their thoughts being sincere, their hearts were then rectified. Their hearts being rectified, their persons were cultivated. Their persons being cultivated, their families were regulated. Their families being regulated, their states were rightly governed. Their states being rightly governed, the whole kingdom was made tranquil and happy. 
@@ -226,17 +246,29 @@ The superior man is distressed by his want of ability. He is not distressed by m
 When a person does not transgress the boundary line in the great virtues, he may pass and repass it in the small virtues.
 
 ### Ehrmann
+
 #### Desiderata
 Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons.		 	
+
 Speak your truth quietly and clearly; and listen to others, even to the dull and the ignorant; they too have their story.
+
 Avoid loud and aggressive persons; they are vexatious to the spirit. If you compare yourself with others, you may become vain or bitter, for always there will be greater and lesser persons than yourself.	
+
 Enjoy your achievements as well as your plans. Keep interested in your own career, however humble; it is a real possession in the changing fortunes of time.	 	
-Exercise caution in your business affairs, for the world is full of trickery. But let this not blind you to what virtue there is; many persons strive for high ideals, and everywhere life is full of heroism.	 	
+
+Exercise caution in your business affairs, for the world is full of trickery. But let this not blind you to what virtue there is; many persons strive for high ideals, and everywhere life is full of heroism.	
+
 Be yourself. Especially do not feign affection. Neither be cynical about love; for in the face of all aridity and disenchantment, it is as perennial as the grass.	 	
+
 Take kindly the counsel of the years, gracefully surrendering the things of youth.
+
 Nurture strength of spirit to shield you in sudden misfortune. But do not distress yourself with dark imaginings. Many fears are born of fatigue and loneliness.
+
 Beyond a wholesome discipline, be gentle with yourself. You are a child of the universe no less than the trees and the stars; you have a right to be here.
-And whether or not it is clear to you, no doubt the universe is unfolding as it should. Therefore be at peace with God, whatever you conceive Him to be. And whatever your labors and aspirations, in the noisy confusion of life, keep peace in your soul. With all its sham, drudgery and broken dreams, it is still a beautiful world. Be cheerful. Strive to be happy.
+
+And whether or not it is clear to you, no doubt the universe is unfolding as it should. Therefore be at peace with God, whatever you conceive Him to be. 
+
+And whatever your labors and aspirations, in the noisy confusion of life, keep peace in your soul. With all its sham, drudgery and broken dreams, it is still a beautiful world. Be cheerful. Strive to be happy.
 
 ### Emerson
 Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day; begin it well and serenely and with too high a spirit to be cumbered with your old nonsense. 
@@ -247,42 +279,71 @@ To laugh often and much;  to win the respect of the intelligent people  and 
 
 #### Invictus
 Out of the night that covers me,
+
 Black as the pit from pole to pole,
+
 I thank whatever gods may be
+
 For my unconquerable soul.
+
 In the fell clutch of circumstance
+
 I have not winced nor cried aloud.
+
 Under the bludgeonings of chance
+
 My head is bloody, but unbowed.
+
 Beyond this place of wrath and tears
+
 Looms but the Horror of the shade,
+
 And yet the menace of the years
+
 Finds and shall find me unafraid.
+
 It matters not how strait the gate,
+
 How charged with punishments the scroll,
+
 I am the master of my fate,
+
 I am the captain of my soul.
 
 ### Ingalls
 
 #### Opportunity
 Master of human destinies am I;
+
 Fame, love and fortune on my footsteps wait.
+
 Cities and fields I walk. I penetrate
+
 Deserts and seas remote, and, passing by
+
 Hovel and mart and palace, soon or late,
+
 I knock unbidden once at every gate.
+
 If sleeping, wake; if feasting, rise, before
+
 I turn away. It is the hour of fate,
+
 And they who follow me reach every state
+
 Mortals desire, and conquer every foe
+
 Save death; but those who hesitate
+
 Condemned to failure, penury and woe,
+
 Seek me in vain, and uselessly implore.
+
 I answer not, and I return no more.
 
 ### Johnson
 The Great Society is a place where every child can find knowledge to enrich his mind and to enlarge his talents. It is a place where leisure is a welcome chance to build and reflect, not a feared cause of boredom and restlessness. It is a place where the city of man serves not only the needs of the body and the demands of commerce but the desire for beauty and the hunger for community. It is a place where man can renew contact with nature. It is a place which honors creation for its own sake and for what it adds to the understanding of the race. It is a place where men are more concerned with the quality of their goals than the quantity of their goods.
+
 But most of all, the Great Society is not a safe harbor, a resting place, a final objective, a finished work. It is a challenge constantly renewed, beckoning us toward a destiny where the meaning of our lives matches the marvelous products of our labor.
 
 ### Kennedy
@@ -300,127 +361,219 @@ With a good conscience our only sure reward, with history the final judge of our
 
 ### Kipling
 #### If
-If you can keep your head when all about you   
+If you can keep your head when all about you
+
 	Are losing theirs and blaming it on you,   
+
 If you can trust yourself when all men doubt you,
-	But make allowance for their doubting too;   
+
+ But make allowance for their doubting too;   
+
 If you can wait and not be tired by waiting,
-	Or being lied about, don’t deal in lies,
+
+ Or being lied about, don’t deal in lies,
+
 Or being hated, don’t give way to hating,
-	And yet don’t look too good, nor talk too wise:
+
+ And yet don’t look too good, nor talk too wise:
 
 If you can dream—and not make dreams your master;   
-	If you can think—and not make thoughts your aim;   
+	
+ If you can think—and not make thoughts your aim;   
+
 If you can meet with Triumph and Disaster
-	And treat those two impostors just the same;   
+
+ And treat those two impostors just the same;   
+
 If you can bear to hear the truth you’ve spoken
-	Twisted by knaves to make a trap for fools,
+
+ Twisted by knaves to make a trap for fools,
+
 Or watch the things you gave your life to, broken,
-	And stoop and build ’em up with worn-out tools:
+
+ And stoop and build ’em up with worn-out tools:
+
 
 If you can make one heap of all your winnings
-	And risk it on one turn of pitch-and-toss,
+
+ And risk it on one turn of pitch-and-toss,
+
 And lose, and start again at your beginnings
-	And never breathe a word about your loss;
+
+ And never breathe a word about your loss;
+
 If you can force your heart and nerve and sinew
-	To serve your turn long after they are gone,   
+
+ To serve your turn long after they are gone,   
+
 And so hold on when there is nothing in you
-	Except the Will which says to them: ‘Hold on!’
+
+ Except the Will which says to them: ‘Hold on!’
 
 If you can talk with crowds and keep your virtue,   
-	Or walk with Kings—nor lose the common touch,
+	
+ Or walk with Kings—nor lose the common touch,
+
 If neither foes nor loving friends can hurt you,
-	If all men count with you, but none too much;
+
+ If all men count with you, but none too much;
+
 If you can fill the unforgiving minute
-	With sixty seconds’ worth of distance run,   
+
+ With sixty seconds’ worth of distance run,   
+
 Yours is the Earth and everything that’s in it,   
-	And—which is more—you’ll be a Man, my son!
+
+ And—which is more—you’ll be a Man, my son!
 
 ### Longfellow
 #### The Builders
 All are architects of Fate,
+
  Working in these walls of Time;
+
  Some with massive deeds and great,
+
  Some with ornaments of rhyme.
+
 Nothing useless is, or low;
+
  Each thing in its place is best;
+
  And what seems but idle show
+
  Strengthens and supports the rest.
+
 For the structure that we raise,
+
  Time is with materials filled;
+
  Our to-days and yesterdays
+ 
  Are the blocks with which we build.
+
 Truly shape and fashion these;
+
  Leave no yawning gaps between;
+
  Think not, because no man sees,
+
  Such things will remain unseen.
+
 In the elder days of Art,
+
  Builders wrought with greatest care
+
  Each minute and unseen part;
+
  For the Gods see everywhere.
+
 Let us do our work as well,
+
  Both the unseen and the seen;
+
  Make the house, where Gods may dwell,
+
  Beautiful, entire, and clean.
+
 Else our lives are incomplete,
+
  Standing in these walls of Time,
+
  Broken stairways, where the feet
+
  Stumble as they seek to climb.
+
 Build to-day, then, strong and sure,
+
  With a firm and ample base;
+
  And ascending and secure
+
  Shall to-morrow find its place.
+
 Thus alone can we attain
+
  To those turrets, where the eye
+
  Sees the world as one vast plain,
+
  And one boundless reach of sky.
 
 #### A Psalm of Life
 *What The Heart Of The Young Man Said To The Psalmist.*
 
 Tell me not, in mournful numbers,
+
    Life is but an empty dream!
+
 For the soul is dead that slumbers,
+
    And things are not what they seem.
 
+
 Life is real! Life is earnest!
+
    And the grave is not its goal;
+
 Dust thou art, to dust returnest,
+
    Was not spoken of the soul.
 
 Not enjoyment, and not sorrow,
+
    Is our destined end or way;
+
 But to act, that each to-morrow
+
    Find us farther than to-day.
 
 Art is long, and Time is fleeting,
+
    And our hearts, though stout and brave,
+
 Still, like muffled drums, are beating
+
    Funeral marches to the grave.
 
 In the world’s broad field of battle,
+
    In the bivouac of Life,
+
 Be not like dumb, driven cattle!
+
    Be a hero in the strife!
 
 Trust no Future, howe’er pleasant!
+   
    Let the dead Past bury its dead!
+
 Act,— act in the living Present!
+
    Heart within, and God o’erhead!
 
 Lives of great men all remind us
+   
    We can make our lives sublime,
+
 And, departing, leave behind us
+
    Footprints on the sands of time;
 
 Footprints, that perhaps another,
+   
    Sailing o’er life’s solemn main,
+
 A forlorn and shipwrecked brother,
+
    Seeing, shall take heart again.
 
 Let us, then, be up and doing,
+   
    With a heart for any fate;
+
 Still achieving, still pursuing,
+
    Learn to labor and to wait.
 
 ### Nietzsche 
@@ -575,10 +728,14 @@ Ambition should be made of sterner stuff.
 
 ### Smith
 It is requisite with the justice of God that men should be judged according to their works; and if their works were good in this life, and the desires of their hearts were good, that they should also, at the last day, be restored unto that which is good.
+
 And if their works are evil they shall be restored unto them for evil. Therefore, all things shall be restored to their proper order, every thing to its natural frame—mortality raised to immortality, corruption to incorruption—raised to endless happiness to inherit the kingdom of God, or to endless misery to inherit the kingdom of the devil, the one on one hand, the other on the other—
 The one raised to happiness according to his desires of happiness, or good according to his desires of good; and the other to evil according to his desires of evil; for as he has desired to do evil all the day long even so shall he have his reward of evil when the night cometh.
+
 And so it is on the other hand. If he has repented of his sins, and desired righteousness until the end of his days, even so he shall be rewarded unto righteousness.
+
 You will not suffer your children that they go hungry, or naked; neither will you suffer that they transgress the laws of God, and fight and quarrel one with another, and serve the devil, who is the master of sin, or who is the evil spirit which has been spoken of by our fathers, he being an enemy to all righteousness.
+
 But you will teach them to walk in the ways of truth and soberness; you will teach them to love one another, and to serve one another.
 
 ### Solomon
@@ -635,7 +792,7 @@ Become and do all that you can. Develop your skills. Pursue the truth. Make thin
 
 Shun negative-sum acts; seek positive-sum acts. Honor your origins. Steward the land. Care for your parents. Study the work of your ancestors. Do right by your peers. Love your spouse. Aid the deserving. Cultivate your descendants. Train the young. Improve your estate. 
 
-Rest on the sabbath. Eat previously prepared food.  Bask in warmth. Walk, dance, or play games. Read pre-selected books. Do arts or crafts for your personal enjoyment. Do not work for pay, study, spend money, perform household chores, have stressful conversations, or indulge in mindlessness. 
+Rest on the sabbath. Eat heartily.  Bask in warmth. Walk, dance, play, and read. Attend to your family and friends. 
 —
 A dragon grew in two men’s minds. With courage that felt like fear, the first man slew the beast and ate its heart. He slept well that night. With cowardice that also felt like fear, the second man hid from the dragon. He lies awake still. 
 
