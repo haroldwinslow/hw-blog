@@ -7,6 +7,10 @@ layout: layouts/post.njk
 ---
 *For our allies - may they toil fruitfully on Earth and rest soundly in Heaven. And for our enemies, God help them.*
 
+# Table of Contents
+1. [Brontë](#Brontë)
+2. [Christ](#Christ)
+
 ### Brontë
 
 #### Life
