@@ -8,7 +8,7 @@ layout: layouts/post.njk
 *For our allies - may they toil fruitfully on Earth and rest soundly in Heaven. And for our enemies, God help them.*
 
 <details> 
-<summary>**à Kempis**</summary>
+<summary> à Kempis </summary>
 It is vanity to seek and trust in riches that perish. It is vanity to court honor and to be puffed up with pride. It is vanity to follow the lusts of the body and to desire things for which severe punishment later must come. It is vanity to wish for long life and to care little about a well-spent life. It is vanity to be concerned with the present only and not to make provision for things to come. It is vanity to love what passes quickly and not to look ahead where eternal joy abides. 
 
 There are many things the knowledge of which does little or no good to the soul, and he who concerns himself about other things than those which lead to salvation is very unwise. 
@@ -103,7 +103,7 @@ Be ready to suffer many adversities and many kinds of trouble in this miserable 
 </details>
 
 <details> 
-<summary>### Brontë</summary>
+<summary> Brontë </summary>
 
 #### Life
 Life, believe, is not a dream
@@ -156,8 +156,7 @@ Can courage quell despair!
 </details>
 
 <details>
-
-### Christ
+<summary> Christ </summary>
 
 Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are those who mourn, for they will be comforted. Blessed are the meek, for they will inherit the earth. Blessed are those who hunger and thirst for righteousness, for they will be filled. Blessed are the merciful, for they will be shown mercy. Blessed are the pure in heart, for they will see God. Blessed are the peacemakers, for they will be called children of God. Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven. 
 
@@ -203,7 +202,9 @@ Watch out for false prophets. They come to you in sheep’s clothing, but inward
 
 Everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock. The rain came down, the streams rose, and the winds blew and beat against that house; yet it did not fall, because it had its foundation on the rock.  But everyone who hears these words of mine and does not put them into practice is like a foolish man who built his house on sand.  The rain came down, the streams rose, and the winds blew and beat against that house, and it fell with a great crash.
 
+
 ### Churchill
+<details>
 If we are not to become the slaves of our own systems or sink oppressed among the mechanism we have ourselves created, it will only be by the bold efforts of originality, by repeated experiment, by free and continual discussion of all things, and by the dispassionate consideration of the results of sustained and unflinching thought. 
 
 Danger gathers upon our path. We cannot afford - we have no right - to look back. We must look forward. 
@@ -228,6 +229,7 @@ We shall not fail or falter; we shall not weaken or tire. Neither the sudden sho
 We shall never turn from our purpose, however sombre the road, however grievous the cost, because we know that out of this time of trial and tribulation will be born a new freedom and glory for all mankind.
 
 Let us move forward together in discharge of our mission and our duty, fearing God and nothing else. 
+</details>
 
 ### Confucius
 
