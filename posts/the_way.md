@@ -7,7 +7,8 @@ layout: layouts/post.njk
 ---
 *For our allies - may they toil fruitfully on Earth and rest soundly in Heaven. And for our enemies, God help them.*
 
-### à Kempis
+<details> 
+<summary>### à Kempis</summary>
 It is vanity to seek and trust in riches that perish. It is vanity to court honor and to be puffed up with pride. It is vanity to follow the lusts of the body and to desire things for which severe punishment later must come. It is vanity to wish for long life and to care little about a well-spent life. It is vanity to be concerned with the present only and not to make provision for things to come. It is vanity to love what passes quickly and not to look ahead where eternal joy abides. 
 
 There are many things the knowledge of which does little or no good to the soul, and he who concerns himself about other things than those which lead to salvation is very unwise. 
@@ -99,34 +100,62 @@ If you carry the cross willingly, it will carry and lead you to the desired goal
 Through fervor of spirit frail flesh learns to love and to gain what it naturally hates and shuns. 
 
 Be ready to suffer many adversities and many kinds of trouble in this miserable life, for troublesome and miserable life will always be, no matter where you are; and so you will find it wherever you may hide. Thus it must be; and there is no way to evade the trials and sorrows of life but to bear them. 
+</details>
 
-### Brontë
+<details> 
+<summary>### Brontë</summary>
 
 #### Life
 Life, believe, is not a dream
+
 So dark as sages say;
+
 Oft a little morning rain
+
 Foretells a pleasant day.
+
 Sometimes there are clouds of gloom,
+
 But these are transient all;
+
 If the shower will make the roses bloom,
+
 O why lament its fall?
+
 Rapidly, merrily,
+
 Life’s sunny hours flit by,
+
 Gratefully, cheerily
+
 Enjoy them as they fly!
+
 What though Death at times steps in,
+
 And calls our Best away?
+
 What though sorrow seems to win,
+
 O’er hope, a heavy sway?
+
 Yet Hope again elastic springs,
+
 Unconquered, though she fell;
+
 Still buoyant are her golden wings,
+
 Still strong to bear us well.
+
 Manfully, fearlessly,
+
 The day of trial bear,
+
 For gloriously, victoriously,
+
 Can courage quell despair!
+</details>
+
+<details>
 
 ### Christ
 
@@ -749,6 +778,7 @@ Ambition should be made of sterner stuff.
 It is requisite with the justice of God that men should be judged according to their works; and if their works were good in this life, and the desires of their hearts were good, that they should also, at the last day, be restored unto that which is good.
 
 And if their works are evil they shall be restored unto them for evil. Therefore, all things shall be restored to their proper order, every thing to its natural frame—mortality raised to immortality, corruption to incorruption—raised to endless happiness to inherit the kingdom of God, or to endless misery to inherit the kingdom of the devil, the one on one hand, the other on the other—
+
 The one raised to happiness according to his desires of happiness, or good according to his desires of good; and the other to evil according to his desires of evil; for as he has desired to do evil all the day long even so shall he have his reward of evil when the night cometh.
 
 And so it is on the other hand. If he has repented of his sins, and desired righteousness until the end of his days, even so he shall be rewarded unto righteousness.
