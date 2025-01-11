@@ -8,7 +8,7 @@ layout: layouts/post.njk
 *For our allies - may they toil fruitfully on Earth and rest soundly in Heaven. And for our enemies, God help them.*
 
 <details> 
-<summary>### à Kempis</summary>
+<summary>**à Kempis**</summary>
 It is vanity to seek and trust in riches that perish. It is vanity to court honor and to be puffed up with pride. It is vanity to follow the lusts of the body and to desire things for which severe punishment later must come. It is vanity to wish for long life and to care little about a well-spent life. It is vanity to be concerned with the present only and not to make provision for things to come. It is vanity to love what passes quickly and not to look ahead where eternal joy abides. 
 
 There are many things the knowledge of which does little or no good to the soul, and he who concerns himself about other things than those which lead to salvation is very unwise. 
