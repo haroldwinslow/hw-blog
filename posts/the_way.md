@@ -7,103 +7,7 @@ layout: layouts/post.njk
 ---
 *For our allies - may they toil fruitfully on Earth and rest soundly in Heaven. And for our enemies, God help them.*
 
-<details> 
-<summary> à Kempis </summary>
-It is vanity to seek and trust in riches that perish. It is vanity to court honor and to be puffed up with pride. It is vanity to follow the lusts of the body and to desire things for which severe punishment later must come. It is vanity to wish for long life and to care little about a well-spent life. It is vanity to be concerned with the present only and not to make provision for things to come. It is vanity to love what passes quickly and not to look ahead where eternal joy abides. 
-
-There are many things the knowledge of which does little or no good to the soul, and he who concerns himself about other things than those which lead to salvation is very unwise. 
-
-If you see another sin openly or commit a serious crime, do not consider yourself better, for you do not know how long you can remain good. 
-
-Who is forced to struggle more than he who tries to master himself? This ought to be our purpose: to conquer self, to become stronger each day, to advance in virtue. 
-
-He is truly great who has great charity. He is truly great who is little in his own eyes and makes nothing of the highest honor. 
-
-Not to act rashly or to cling obstinately to one’s opinion, not to believe everything people say or to spread abroad the gossip one has heard, is great wisdom. Take counsel with a wise and conscientious man. Seek the advice of your betters in preference to following your own inclinations. 
-
-Read with humility, simplicity, and faith, and never seek a reputation for being learned. Seek willingly and listen attentively to the words of the saints; do not be displeased with the sayings of the ancients, for they were not made without purpose. 
-
-When a man desires a thing too much, he at once becomes ill at ease. A proud and avaricious man never rests, whereas he who is poor and humble of heart lives in a world of peace. An unmortified man is quickly tempted and overcome in small, trifling evils; his spirit is weak, in a measure carnal and inclined to sensual things; he can hardly abstain from earthly desires. Hence it makes him sad to forego them; he is quick to anger if reproved. Yet if he satisfies his desires, remorse of conscience overwhelms him because he followed his passions and they did not lead to the peace he sought. True peace of heart, then, is found in resisting passions, not in satisfying them. There is no peace in the carnal man, in the man given to vain attractions, but there is peace in the fervent and spiritual man. 
-
-The humble live in continuous peace, while in the hearts of the proud are envy and frequent anger. 
-
-Do not fawn upon the rich, and do not be fond of mingling with the great. Associate with the humble and the simple, with the devout and virtuous, and with them speak of edifying things. 
-
-Dreams of happiness expected from change and different places have deceived many. 
-
-We should enjoy much peace if we did not concern ourselves with what others say and do, for these are no concern of ours. How can a man who meddles in affairs not his own, who seeks strange distractions, and who is little or seldom inwardly recollected, live long in peace? Blessed are the simple of heart for they shall enjoy peace in abundance. 
-
-We are too occupied with our own whims and fancies, too taken up with passing things. Rarely do we completely conquer even one vice, and we are not inflamed with the desire to improve ourselves day by day; hence, we remain cold and indifferent. If we mortified our bodies perfectly and allowed no distractions to enter our minds, we could appreciate divine things and experience something of heavenly contemplation. The greatest obstacle, indeed, the only obstacle, is that we are not free from passions and lusts, that we do not try to follow the perfect way of the saints. Thus when we encounter some slight difficulty, we are too easily dejected and turn to human consolations. If we tried, however, to stand as brave men in battle, the help of the Lord from heaven would surely sustain us. For He who gives us the opportunity of fighting for victory, is ready to help those who carry on and trust in His grace. If we let our progress in religious life depend on the observance of its externals alone, our devotion will quickly come to an end. Let us, then, lay the ax to the root that we may be freed from our passions and thus have peace of mind. If we were to uproot only one vice each year, we should soon become perfect. The contrary, however, is often the case, we feel that we were better and purer in the first fervor of our conversion than we are after many years in the practice of our faith. Our fervor and progress ought to increase day by day; yet it is now considered noteworthy if a man can retain even a part of his first fervor. If we did a little violence to ourselves at the start, we should afterwards be able to do all things with ease and joy. It is hard to break old habits, but harder still to go against our will. If you do not overcome small, trifling things, how will you overcome the more difficult? Resist temptations in the beginning, and unlearn the evil habit lest perhaps, little by little, it lead to a more evil one. If you but consider what peace a good life will bring to yourself and what joy it will give to others, I think you will be more concerned about your spiritual progress. 
-
-So long as we live in this world we cannot escape suffering and temptation. Whence it is written in Job: “the life of man upon earth is a warfare.” Everyone, therefore, must guard against temptation and must watch in prayer lest the devil, who never sleeps but goes about seeking whom he may devour, find occasion to deceive him. No one is so perfect or so holy but he is sometimes tempted; man cannot be altogether free from temptation. Yet temptations, though troublesome and severe, are often useful to a man, for in them he is humbled, purified, and instructed. The saints all passed through many temptations and trials to profit by them, while those who could not resist became reprobate and fell away. There is no state so holy, no place so secret that temptations and trials will not come. Man is never safe from them as long as he lives, for they come from within us - in sin we were born. When one temptation or trial passes, another comes; we shall always have something to suffer because we have lost the state of original blessedness. 
-
-Fire tempers iron and temptation steels the just. Often we do not know what we can stand, but temptation shows us what we are. Above all, we must be especially alert against the beginnings of temptation, for the enemy is more easily conquered if he is refused admittance to the mind and is met beyond the threshold when he knocks. Someone has said very aptly: “resist the beginnings; remedies come too late, when by long delay the evil has gained strength.” First, a mere thought comes to mind, then strong imagination, followed by pleasure, evil delight, and consent. Thus, because he is not resisted in the beginning, Satan gains full entry. And the longer a man delays in resisting, so much the weaker does he become each day, while the strength of the enemy grows against him. 
-
-Turn your attention upon yourself and beware of judging the deeds of other men, for in judging others a man labors vainly, often makes mistakes, and easily sins; whereas, in judging and taking stock of himself he does something that is always profitable. 
-
-He does much who loves much. He does much who does a thing well. He does well who serves the common good rather than his own interests. 
-
-A man ought to bear patiently whatever he cannot correct in himself and in others. 
-
-Try to bear patiently with the defects and infirmities of others, whatever they may be, because you also have a fault which others must endure. If you cannot make yourself what you would wish to be, how can you bend others to your will? We want them to be perfect, yet we do not correct our own faults. We wish them to be severely corrected, yet we will not correct ourselves. Their great liberty displeases us, yet we would not be denied what we ask. We would have them bound by laws, yet we will allow ourselves to be restrained in nothing. Hence, it is clear how seldom we think of others as we do of ourselves. 
-
-There is no man without fault, no man without burden, no man sufficient to himself nor wise enough. Hence we must support one another, console one another, mutually help, counsel, and advise, for the measure of every man’s virtue is best revealed in time of adversity - adversity that does not weaken a man but rather shows what he is. 
-
-If you wish for peace and concord with others, you must learn to break your will in many things. 
-
-If you would persevere in seeking perfection, you must consider yourself a pilgrim, an exile on earth. 
-
-You have been called to suffer and to work, not to idle and gossip away your time. 
-
-The life of a good religious ought to abound in every virtue so that he is interiorly what to others he appears to be. 
-
-No man appears in safety before the public eye unless he first relishes obscurity. No man is safe in speaking unless he loves to be silent. No man rules safely unless he is willing to be ruled. No man commands safely unless he has learned well how to obey. No man rejoices safely unless he has within him the testimony of a good conscience. 
-
-If you leave men alone, they will leave you alone to do what you have to do. Do not busy yourself about the affairs of others and do not become entangled in the business of your superiors. Keep an eye primarily on yourself and admonish yourself instead of your friends. 
-
-You must pass through water and fire before coming to rest. Unless you do violence to yourself you will not overcome vice. 
-
-Very soon your life here will end; consider, then, what may be in store for you elsewhere. Today we live; tomorrow we die and are quickly forgotten. 
-
-In every deed and every thought, act as though you were to die this very day. If you had a good conscience you would not fear death very much. It is better to avoid sin than to fear death. If you are not prepared today, how will you be prepared tomorrow? Tomorrow is an uncertain day; how do you know you will have a tomorrow? What good is it to live a long life when we amend that life so little? Indeed, a long life does not always benefit us, but on the contrary, frequently adds to our guilt. Would that in this world we had lived well throughout one single day. Many count up the years they have spent in religion but find their lives made little holier. If it is so terrifying to die, it is nevertheless possible that to live longer is more dangerous. Blessed is he who keeps the moment of death ever before his eyes and prepares for it every day. 
-
-What will that fire feed upon but our sins? The more we spare ourselves now and the more we satisfy the flesh, the harder will the reckoning be and the more we keep for the burning. For a man will be grievously punished in the things in which he has sinned. There the lazy will be driven with burning prongs, and gluttons tormented with unspeakable hunger and thirst; the wanton and lust-loving will be bathed in burning pitch and foul brimstone; the envious will howl in their grief like mad dogs. Every vice will have its own proper punishment. The proud will be faced with every confusion and the avaricious pinched with the most abject want. One hour of suffering there will be more bitter than a hundred years of the most severe penance here. In this life men sometimes rest from work and enjoy the comfort of friends, but the damned have no rest or consolation. 
-
-Learn, then, to suffer little things now that you may not have to suffer greater ones in eternity. Prove here what you can bear hereafter. If you can suffer only a little now, how will you be able to endure eternal torment? If a little suffering makes you impatient now, what will hellfire do? 
-
-There is one thing that keeps many from zealously improving their lives, that is, dread of the difficulty, the toil of battle. Certainly they who try manfully to overcome the most difficult and unpleasant obstacles far outstrip others in the pursuit of virtue. A man makes the most progress and merits the most grace precisely in those matters wherein he gains the greatest victories over self and most mortifies his will. True, each one has his own difficulties to meet and conquer, but a diligent and sincere man will make greater progress even though he have more passions than one who is more even-tempered but less concerned about virtue. Two things particularly further improvement - to withdraw oneself forcibly from those vices to which nature is viciously inclined, and to work fervently for those graces which are most needed. Study also to guard against and to overcome the faults which in others very frequently displease you. Make the best of every opportunity, so that if you see or hear good example you may be moved to imitate it. On the other hand, take care lest you be guilty of those things which you consider reprehensible, or if you have ever been guilty of them, try to correct yourself as soon as possible. As you see others, so they see you. How pleasant and sweet to behold brethren fervent and devout, well mannered and disciplined! How sad and painful to see them wandering in dissolution, not practicing the things to which they are called! How hurtful it is to neglect the purpose of their vocation and to attend to what is not their business! 
-
-Always remember your end and do not forget that lost time never returns. Without care and diligence you will never acquire virtue. 
-
-A fervent and diligent man is ready for all things. It is greater work to resist vices and passions than to sweat in physical toil. He who does not overcome small faults, shall fall little by little into greater ones. If you have spent the day profitably, you will always be happy at eventide. Watch over yourself, arouse yourself, warn yourself, and regardless of what becomes of others, do not neglect yourself. The more violence you do to yourself, the more progress you will make. 
-
-He who learns to live the interior life and to take little account of outward things, does not seek special places or times to perform devout exercises. A spiritual man quickly recollects himself because he has never wasted his attention upon externals. No outside work, no business that cannot wait stands in his way. He adjusts himself to things as they happen. He whose disposition is well ordered who cares nothing about the strange, perverse behavior of others, for a man is upset and distracted only in proportion as he engrosses himself in externals. 
-
-First keep peace with yourself; then you will be able to bring peace to others. 
-
-Direct your zeal, therefore, first upon yourself; then you may with justice exercise it upon those about you. You are well versed in coloring your own actions with excuses which you will not accept from others, though it would be more just to accuse yourself and excuse your brother. If you wish men to bear with you, you must bear with them. Behold, how far you are from true charity and humility which does not know how to be angry with anyone, or to be indignant save only against self! It is no great thing to associate with the good and gentle, for such association is naturally pleasing. Everyone enjoys a peaceful life and prefers persons of congenial habits. But to be able to live at peace with harsh and perverse men, or with the undisciplined and those who irritate us, is a great grace, a praiseworthy and manly thing. Some people live at peace with themselves and with their fellow men, but others are never at peace with themselves nor do they bring it to anyone else. These latter are a burden to everyone, but they are more of a burden to themselves. A few, finally, live at peace with themselves and try to restore it to others. 
-
-We take others to task for small mistakes, and overlook greater ones in ourselves. We are quick enough to feel and brood over the things we suffer from others, but we think nothing of how much others suffer from us. If a man would weigh his own deeds fully and rightly, he would find little cause to pass severe judgment on others. 
-
-The glory of a good man is the testimony of a good conscience. Therefore, keep your conscience good and you will always enjoy happiness, for a good conscience can bear a great deal and can bring joy even in the midst of adversity. But an evil conscience is ever restive and fearful. Sweet shall be your rest if your heart does not reproach you. 
-
-The devil does not sleep, nor is the flesh yet dead; therefore, you must never cease your preparation for battle, because on the right and on the left are enemies who never rest. 
-
-Why do you look for rest when you were born to work? Resign yourself to patience rather than to comfort, to carrying your cross rather than to enjoyment. 
-
-What is wont to be given the humble will be taken away from the proud. 
-
-Be grateful for the least gift and you will be worthy to receive a greater. 
-
-If you carry the cross willingly, it will carry and lead you to the desired goal where indeed there shall be no more suffering, but here there shall be. If you carry it unwillingly, you create a burden for yourself and increase the load, though still you have to bear it. If you cast away one cross, you will find another and perhaps a heavier one. 
-
-Through fervor of spirit frail flesh learns to love and to gain what it naturally hates and shuns. 
-
-Be ready to suffer many adversities and many kinds of trouble in this miserable life, for troublesome and miserable life will always be, no matter where you are; and so you will find it wherever you may hide. Thus it must be; and there is no way to evade the trials and sorrows of life but to bear them. 
-</details>
-
-<details> 
-<summary> Brontë </summary>
+### Brontë
 
 #### Life
 Life, believe, is not a dream
@@ -153,10 +57,8 @@ The day of trial bear,
 For gloriously, victoriously,
 
 Can courage quell despair!
-</details>
 
-<details>
-<summary> Christ </summary>
+ ### Christ
 
 Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are those who mourn, for they will be comforted. Blessed are the meek, for they will inherit the earth. Blessed are those who hunger and thirst for righteousness, for they will be filled. Blessed are the merciful, for they will be shown mercy. Blessed are the pure in heart, for they will see God. Blessed are the peacemakers, for they will be called children of God. Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven. 
 
@@ -204,7 +106,7 @@ Everyone who hears these words of mine and puts them into practice is like a wis
 
 
 ### Churchill
-<details>
+
 If we are not to become the slaves of our own systems or sink oppressed among the mechanism we have ourselves created, it will only be by the bold efforts of originality, by repeated experiment, by free and continual discussion of all things, and by the dispassionate consideration of the results of sustained and unflinching thought. 
 
 Danger gathers upon our path. We cannot afford - we have no right - to look back. We must look forward. 
@@ -229,7 +131,6 @@ We shall not fail or falter; we shall not weaken or tire. Neither the sudden sho
 We shall never turn from our purpose, however sombre the road, however grievous the cost, because we know that out of this time of trial and tribulation will be born a new freedom and glory for all mankind.
 
 Let us move forward together in discharge of our mission and our duty, fearing God and nothing else. 
-</details>
 
 ### Confucius
 
@@ -379,6 +280,99 @@ I answer not, and I return no more.
 The Great Society is a place where every child can find knowledge to enrich his mind and to enlarge his talents. It is a place where leisure is a welcome chance to build and reflect, not a feared cause of boredom and restlessness. It is a place where the city of man serves not only the needs of the body and the demands of commerce but the desire for beauty and the hunger for community. It is a place where man can renew contact with nature. It is a place which honors creation for its own sake and for what it adds to the understanding of the race. It is a place where men are more concerned with the quality of their goals than the quantity of their goods.
 
 But most of all, the Great Society is not a safe harbor, a resting place, a final objective, a finished work. It is a challenge constantly renewed, beckoning us toward a destiny where the meaning of our lives matches the marvelous products of our labor.
+
+### Kempis
+It is vanity to seek and trust in riches that perish. It is vanity to court honor and to be puffed up with pride. It is vanity to follow the lusts of the body and to desire things for which severe punishment later must come. It is vanity to wish for long life and to care little about a well-spent life. It is vanity to be concerned with the present only and not to make provision for things to come. It is vanity to love what passes quickly and not to look ahead where eternal joy abides. 
+
+There are many things the knowledge of which does little or no good to the soul, and he who concerns himself about other things than those which lead to salvation is very unwise. 
+
+If you see another sin openly or commit a serious crime, do not consider yourself better, for you do not know how long you can remain good. 
+
+Who is forced to struggle more than he who tries to master himself? This ought to be our purpose: to conquer self, to become stronger each day, to advance in virtue. 
+
+He is truly great who has great charity. He is truly great who is little in his own eyes and makes nothing of the highest honor. 
+
+Not to act rashly or to cling obstinately to one’s opinion, not to believe everything people say or to spread abroad the gossip one has heard, is great wisdom. Take counsel with a wise and conscientious man. Seek the advice of your betters in preference to following your own inclinations. 
+
+Read with humility, simplicity, and faith, and never seek a reputation for being learned. Seek willingly and listen attentively to the words of the saints; do not be displeased with the sayings of the ancients, for they were not made without purpose. 
+
+When a man desires a thing too much, he at once becomes ill at ease. A proud and avaricious man never rests, whereas he who is poor and humble of heart lives in a world of peace. An unmortified man is quickly tempted and overcome in small, trifling evils; his spirit is weak, in a measure carnal and inclined to sensual things; he can hardly abstain from earthly desires. Hence it makes him sad to forego them; he is quick to anger if reproved. Yet if he satisfies his desires, remorse of conscience overwhelms him because he followed his passions and they did not lead to the peace he sought. True peace of heart, then, is found in resisting passions, not in satisfying them. There is no peace in the carnal man, in the man given to vain attractions, but there is peace in the fervent and spiritual man. 
+
+The humble live in continuous peace, while in the hearts of the proud are envy and frequent anger. 
+
+Do not fawn upon the rich, and do not be fond of mingling with the great. Associate with the humble and the simple, with the devout and virtuous, and with them speak of edifying things. 
+
+Dreams of happiness expected from change and different places have deceived many. 
+
+We should enjoy much peace if we did not concern ourselves with what others say and do, for these are no concern of ours. How can a man who meddles in affairs not his own, who seeks strange distractions, and who is little or seldom inwardly recollected, live long in peace? Blessed are the simple of heart for they shall enjoy peace in abundance. 
+
+We are too occupied with our own whims and fancies, too taken up with passing things. Rarely do we completely conquer even one vice, and we are not inflamed with the desire to improve ourselves day by day; hence, we remain cold and indifferent. If we mortified our bodies perfectly and allowed no distractions to enter our minds, we could appreciate divine things and experience something of heavenly contemplation. The greatest obstacle, indeed, the only obstacle, is that we are not free from passions and lusts, that we do not try to follow the perfect way of the saints. Thus when we encounter some slight difficulty, we are too easily dejected and turn to human consolations. If we tried, however, to stand as brave men in battle, the help of the Lord from heaven would surely sustain us. For He who gives us the opportunity of fighting for victory, is ready to help those who carry on and trust in His grace. If we let our progress in religious life depend on the observance of its externals alone, our devotion will quickly come to an end. Let us, then, lay the ax to the root that we may be freed from our passions and thus have peace of mind. If we were to uproot only one vice each year, we should soon become perfect. The contrary, however, is often the case, we feel that we were better and purer in the first fervor of our conversion than we are after many years in the practice of our faith. Our fervor and progress ought to increase day by day; yet it is now considered noteworthy if a man can retain even a part of his first fervor. If we did a little violence to ourselves at the start, we should afterwards be able to do all things with ease and joy. It is hard to break old habits, but harder still to go against our will. If you do not overcome small, trifling things, how will you overcome the more difficult? Resist temptations in the beginning, and unlearn the evil habit lest perhaps, little by little, it lead to a more evil one. If you but consider what peace a good life will bring to yourself and what joy it will give to others, I think you will be more concerned about your spiritual progress. 
+
+So long as we live in this world we cannot escape suffering and temptation. Whence it is written in Job: “the life of man upon earth is a warfare.” Everyone, therefore, must guard against temptation and must watch in prayer lest the devil, who never sleeps but goes about seeking whom he may devour, find occasion to deceive him. No one is so perfect or so holy but he is sometimes tempted; man cannot be altogether free from temptation. Yet temptations, though troublesome and severe, are often useful to a man, for in them he is humbled, purified, and instructed. The saints all passed through many temptations and trials to profit by them, while those who could not resist became reprobate and fell away. There is no state so holy, no place so secret that temptations and trials will not come. Man is never safe from them as long as he lives, for they come from within us - in sin we were born. When one temptation or trial passes, another comes; we shall always have something to suffer because we have lost the state of original blessedness. 
+
+Fire tempers iron and temptation steels the just. Often we do not know what we can stand, but temptation shows us what we are. Above all, we must be especially alert against the beginnings of temptation, for the enemy is more easily conquered if he is refused admittance to the mind and is met beyond the threshold when he knocks. Someone has said very aptly: “resist the beginnings; remedies come too late, when by long delay the evil has gained strength.” First, a mere thought comes to mind, then strong imagination, followed by pleasure, evil delight, and consent. Thus, because he is not resisted in the beginning, Satan gains full entry. And the longer a man delays in resisting, so much the weaker does he become each day, while the strength of the enemy grows against him. 
+
+Turn your attention upon yourself and beware of judging the deeds of other men, for in judging others a man labors vainly, often makes mistakes, and easily sins; whereas, in judging and taking stock of himself he does something that is always profitable. 
+
+He does much who loves much. He does much who does a thing well. He does well who serves the common good rather than his own interests. 
+
+A man ought to bear patiently whatever he cannot correct in himself and in others. 
+
+Try to bear patiently with the defects and infirmities of others, whatever they may be, because you also have a fault which others must endure. If you cannot make yourself what you would wish to be, how can you bend others to your will? We want them to be perfect, yet we do not correct our own faults. We wish them to be severely corrected, yet we will not correct ourselves. Their great liberty displeases us, yet we would not be denied what we ask. We would have them bound by laws, yet we will allow ourselves to be restrained in nothing. Hence, it is clear how seldom we think of others as we do of ourselves. 
+
+There is no man without fault, no man without burden, no man sufficient to himself nor wise enough. Hence we must support one another, console one another, mutually help, counsel, and advise, for the measure of every man’s virtue is best revealed in time of adversity - adversity that does not weaken a man but rather shows what he is. 
+
+If you wish for peace and concord with others, you must learn to break your will in many things. 
+
+If you would persevere in seeking perfection, you must consider yourself a pilgrim, an exile on earth. 
+
+You have been called to suffer and to work, not to idle and gossip away your time. 
+
+The life of a good religious ought to abound in every virtue so that he is interiorly what to others he appears to be. 
+
+No man appears in safety before the public eye unless he first relishes obscurity. No man is safe in speaking unless he loves to be silent. No man rules safely unless he is willing to be ruled. No man commands safely unless he has learned well how to obey. No man rejoices safely unless he has within him the testimony of a good conscience. 
+
+If you leave men alone, they will leave you alone to do what you have to do. Do not busy yourself about the affairs of others and do not become entangled in the business of your superiors. Keep an eye primarily on yourself and admonish yourself instead of your friends. 
+
+You must pass through water and fire before coming to rest. Unless you do violence to yourself you will not overcome vice. 
+
+Very soon your life here will end; consider, then, what may be in store for you elsewhere. Today we live; tomorrow we die and are quickly forgotten. 
+
+In every deed and every thought, act as though you were to die this very day. If you had a good conscience you would not fear death very much. It is better to avoid sin than to fear death. If you are not prepared today, how will you be prepared tomorrow? Tomorrow is an uncertain day; how do you know you will have a tomorrow? What good is it to live a long life when we amend that life so little? Indeed, a long life does not always benefit us, but on the contrary, frequently adds to our guilt. Would that in this world we had lived well throughout one single day. Many count up the years they have spent in religion but find their lives made little holier. If it is so terrifying to die, it is nevertheless possible that to live longer is more dangerous. Blessed is he who keeps the moment of death ever before his eyes and prepares for it every day. 
+
+What will that fire feed upon but our sins? The more we spare ourselves now and the more we satisfy the flesh, the harder will the reckoning be and the more we keep for the burning. For a man will be grievously punished in the things in which he has sinned. There the lazy will be driven with burning prongs, and gluttons tormented with unspeakable hunger and thirst; the wanton and lust-loving will be bathed in burning pitch and foul brimstone; the envious will howl in their grief like mad dogs. Every vice will have its own proper punishment. The proud will be faced with every confusion and the avaricious pinched with the most abject want. One hour of suffering there will be more bitter than a hundred years of the most severe penance here. In this life men sometimes rest from work and enjoy the comfort of friends, but the damned have no rest or consolation. 
+
+Learn, then, to suffer little things now that you may not have to suffer greater ones in eternity. Prove here what you can bear hereafter. If you can suffer only a little now, how will you be able to endure eternal torment? If a little suffering makes you impatient now, what will hellfire do? 
+
+There is one thing that keeps many from zealously improving their lives, that is, dread of the difficulty, the toil of battle. Certainly they who try manfully to overcome the most difficult and unpleasant obstacles far outstrip others in the pursuit of virtue. A man makes the most progress and merits the most grace precisely in those matters wherein he gains the greatest victories over self and most mortifies his will. True, each one has his own difficulties to meet and conquer, but a diligent and sincere man will make greater progress even though he have more passions than one who is more even-tempered but less concerned about virtue. Two things particularly further improvement - to withdraw oneself forcibly from those vices to which nature is viciously inclined, and to work fervently for those graces which are most needed. Study also to guard against and to overcome the faults which in others very frequently displease you. Make the best of every opportunity, so that if you see or hear good example you may be moved to imitate it. On the other hand, take care lest you be guilty of those things which you consider reprehensible, or if you have ever been guilty of them, try to correct yourself as soon as possible. As you see others, so they see you. How pleasant and sweet to behold brethren fervent and devout, well mannered and disciplined! How sad and painful to see them wandering in dissolution, not practicing the things to which they are called! How hurtful it is to neglect the purpose of their vocation and to attend to what is not their business! 
+
+Always remember your end and do not forget that lost time never returns. Without care and diligence you will never acquire virtue. 
+
+A fervent and diligent man is ready for all things. It is greater work to resist vices and passions than to sweat in physical toil. He who does not overcome small faults, shall fall little by little into greater ones. If you have spent the day profitably, you will always be happy at eventide. Watch over yourself, arouse yourself, warn yourself, and regardless of what becomes of others, do not neglect yourself. The more violence you do to yourself, the more progress you will make. 
+
+He who learns to live the interior life and to take little account of outward things, does not seek special places or times to perform devout exercises. A spiritual man quickly recollects himself because he has never wasted his attention upon externals. No outside work, no business that cannot wait stands in his way. He adjusts himself to things as they happen. He whose disposition is well ordered who cares nothing about the strange, perverse behavior of others, for a man is upset and distracted only in proportion as he engrosses himself in externals. 
+
+First keep peace with yourself; then you will be able to bring peace to others. 
+
+Direct your zeal, therefore, first upon yourself; then you may with justice exercise it upon those about you. You are well versed in coloring your own actions with excuses which you will not accept from others, though it would be more just to accuse yourself and excuse your brother. If you wish men to bear with you, you must bear with them. Behold, how far you are from true charity and humility which does not know how to be angry with anyone, or to be indignant save only against self! It is no great thing to associate with the good and gentle, for such association is naturally pleasing. Everyone enjoys a peaceful life and prefers persons of congenial habits. But to be able to live at peace with harsh and perverse men, or with the undisciplined and those who irritate us, is a great grace, a praiseworthy and manly thing. Some people live at peace with themselves and with their fellow men, but others are never at peace with themselves nor do they bring it to anyone else. These latter are a burden to everyone, but they are more of a burden to themselves. A few, finally, live at peace with themselves and try to restore it to others. 
+
+We take others to task for small mistakes, and overlook greater ones in ourselves. We are quick enough to feel and brood over the things we suffer from others, but we think nothing of how much others suffer from us. If a man would weigh his own deeds fully and rightly, he would find little cause to pass severe judgment on others. 
+
+The glory of a good man is the testimony of a good conscience. Therefore, keep your conscience good and you will always enjoy happiness, for a good conscience can bear a great deal and can bring joy even in the midst of adversity. But an evil conscience is ever restive and fearful. Sweet shall be your rest if your heart does not reproach you. 
+
+The devil does not sleep, nor is the flesh yet dead; therefore, you must never cease your preparation for battle, because on the right and on the left are enemies who never rest. 
+
+Why do you look for rest when you were born to work? Resign yourself to patience rather than to comfort, to carrying your cross rather than to enjoyment. 
+
+What is wont to be given the humble will be taken away from the proud. 
+
+Be grateful for the least gift and you will be worthy to receive a greater. 
+
+If you carry the cross willingly, it will carry and lead you to the desired goal where indeed there shall be no more suffering, but here there shall be. If you carry it unwillingly, you create a burden for yourself and increase the load, though still you have to bear it. If you cast away one cross, you will find another and perhaps a heavier one. 
+
+Through fervor of spirit frail flesh learns to love and to gain what it naturally hates and shuns. 
+
+Be ready to suffer many adversities and many kinds of trouble in this miserable life, for troublesome and miserable life will always be, no matter where you are; and so you will find it wherever you may hide. Thus it must be; and there is no way to evade the trials and sorrows of life but to bear them. 
 
 ### Kennedy
 Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty. 
