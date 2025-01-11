@@ -7,9 +7,27 @@ layout: layouts/post.njk
 ---
 *For our allies - may they toil fruitfully on Earth and rest soundly in Heaven. And for our enemies, God help them.*
 
-# Table of Contents
+# Contents
 1. [Brontë](#Brontë)
 2. [Christ](#Christ)
+3. [Churchill](#Churchill)
+4. [Confucius](#Confucius)
+5. [Ehrmann](#Ehrmann)
+6. [Emerson](#Emerson)
+7. [Henley](#Henley)
+8. [Ingalls](#Ingalls)
+9. [Johnson](#Johnson)
+10. [Kennedy](#Kennedy)
+11. [Kempis](#Kempis)
+12. [Kipling](#Kipling)
+13. [Longfellow](#Longfellow)
+14. [Nietzsche](#Nietzsche)
+15. [Rand](#Rand)
+16. [Roosevelt](#Roosevelt)
+17. [Shakespeare](#Shakespeare)
+18. [Smith](#Smith)
+19. [Solomon](#Solomon)
+20. [Winslow](#Winslow)
 
 ### Brontë
 
