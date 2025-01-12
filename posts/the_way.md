@@ -12,20 +12,20 @@ layout: layouts/post.njk
 2. [Christ](#christ)
 3. [Churchill](#churchill)
 4. [Confucius](#confucius)
-5. [Ehrmann](#ehrmann)
-6. [Emerson](#emerson)
-7. [Henley](#henley)
-8. [Ingalls](#ingalls)
-9. [Johnson](#johnson)
-10. [Kennedy](#kennedy)
-11. [Kempis](#kempis)
-12. [Kipling](#kipling)
-13. [Longfellow](#longfellow)
-14. [Nietzsche](#nietzsche)
-15. [Rand](#rand)
-16. [Roosevelt](#roosevelt)
-17. [Shakespeare](#shakespeare)
-18. [Smith](#smith)
+5. [Dylan](#dylan)
+6. [Ehrmann](#ehrmann)
+7. [Emerson](#emerson)
+8. [Henley](#henley)
+9. [Ingalls](#ingalls)
+10. [Johnson](#johnson)
+11. [Kennedy](#kennedy)
+12. [Kempis](#kempis)
+13. [Kipling](#kipling)
+14. [Longfellow](#longfellow)
+15. [Nietzsche](#nietzsche)
+16. [Rand](#rand)
+17. [Roosevelt](#roosevelt)
+18. [Shakespeare](#shakespeare)
 19. [Solomon](#solomon)
 20. [Winslow](#winslow)
 
@@ -201,6 +201,60 @@ In youth not humble as befits a junior; in manhood, doing nothing worthy of bein
 The superior man is distressed by his want of ability. He is not distressed by men's not knowing him. The superior man dislikes the thought of his name not being mentioned after his death. What the superior man seeks, is in himself. What the mean man seeks, is in others. The superior man is dignified, but does not wrangle. He is sociable, but not a partisan. The superior man does not promote a man simply on account of his words, nor does he put aside good words because of the man.
 
 When a person does not transgress the boundary line in the great virtues, he may pass and repass it in the small virtues.
+
+### Dylan
+
+#### The Times They Are A-Changin’
+Come gather ’round people
+Wherever you roam
+And admit that the waters
+Around you have grown
+And accept it that soon
+You’ll be drenched to the bone
+If your time to you is worth savin’
+Then you better start swimmin’ or you’ll sink like a stone
+For the times they are a-changin’
+
+Come writers and critics
+Who prophesize with your pen
+And keep your eyes wide
+The chance won’t come again
+And don’t speak too soon
+For the wheel’s still in spin
+And there’s no tellin’ who that it’s namin’
+For the loser now will be later to win
+For the times they are a-changin’
+
+Come senators, congressmen
+Please heed the call
+Don’t stand in the doorway
+Don’t block up the hall
+For he that gets hurt
+Will be he who has stalled
+There’s a battle outside and it is ragin’
+It’ll soon shake your windows and rattle your walls
+For the times they are a-changin’
+
+Come mothers and fathers
+Throughout the land
+And don’t criticize
+What you can’t understand
+Your sons and your daughters
+Are beyond your command
+Your old road is rapidly agin’
+Please get out of the new one if you can’t lend your hand
+For the times they are a-changin’
+
+The line it is drawn
+The curse it is cast
+The slow one now
+Will later be fast
+As the present now
+Will later be past
+The order is rapidly fadin’
+And the first one now will later be last
+For the times they are a-changin’	
+
 
 ### Ehrmann
 
@@ -792,18 +846,6 @@ Tis not enough to help the feeble up, but to support them after.
 
 Ambition should be made of sterner stuff. 
 
-### Smith
-It is requisite with the justice of God that men should be judged according to their works; and if their works were good in this life, and the desires of their hearts were good, that they should also, at the last day, be restored unto that which is good.
-
-And if their works are evil they shall be restored unto them for evil. Therefore, all things shall be restored to their proper order, every thing to its natural frame—mortality raised to immortality, corruption to incorruption—raised to endless happiness to inherit the kingdom of God, or to endless misery to inherit the kingdom of the devil, the one on one hand, the other on the other—
-
-The one raised to happiness according to his desires of happiness, or good according to his desires of good; and the other to evil according to his desires of evil; for as he has desired to do evil all the day long even so shall he have his reward of evil when the night cometh.
-
-And so it is on the other hand. If he has repented of his sins, and desired righteousness until the end of his days, even so he shall be rewarded unto righteousness.
-
-You will not suffer your children that they go hungry, or naked; neither will you suffer that they transgress the laws of God, and fight and quarrel one with another, and serve the devil, who is the master of sin, or who is the evil spirit which has been spoken of by our fathers, he being an enemy to all righteousness.
-
-But you will teach them to walk in the ways of truth and soberness; you will teach them to love one another, and to serve one another.
 
 ### Solomon
 Let your eyes look straight ahead; fix your gaze directly before you. Give careful thought to the paths for your feet and be steadfast in all your ways. Do not turn to the right or the left; keep your foot from evil.
