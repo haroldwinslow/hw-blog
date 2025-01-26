@@ -39,8 +39,7 @@ Functionally, they could probably meet many of the following standards (chosen f
  - Survive a 15 mph bike crash without broken bones
  - Punch and kick hard enough to stun someone of their size
 
-To look like and perform like them, you certainly need to do some strength and conditioning, and methods for those are well documented. But to stay injury-free and well balanced, I think the average person needs much more variety of movement than you'll see in a typical strength and conditioning routine. Think of all the ways you'd move in a dance, yoga, or martial arts class that you don't otherwise do.  
-If you're not in a class like that, you can deliberately add in some variety. Some examples: 
+To look like and perform like them, you certainly need to do some strength and conditioning, and methods for those are well documented. But to stay injury-free and well balanced, I think the average person needs much more variety of movement than you'll see in a typical strength and conditioning routine. Think of all the ways you'd move in a dance, yoga, or martial arts class that you don't otherwise do. If you're not in a class like that, you can deliberately add in some variety. Some examples: 
  - Shoulders: front raise to overhead, straight arm lat pulldowns, side raise to overhead, straight arm side pulldowns, flyes, rear delt raises, overhead shrugs, dead hang scapular retractions, regular shrugs, shoulder dips
  - Spine: L-sit, plank, side plank (both supporting yourself with an arm below you and suspending yourself by holding onto something above you), back plank, woodchops, Jefferson curls, back bridges
  - Hips: super deep lunges, front splits, middle splits
