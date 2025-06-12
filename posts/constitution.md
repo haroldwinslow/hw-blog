@@ -13,8 +13,8 @@ Moreover, new nations will undoubtedly be formed in the next century. The climat
 ---
 
 ## National projects
-A safe and peaceable location for our people to seek their destinies. For this reason, we establish a defense-only military. 
-Mastery over life itself and exploration of the universe. To these ends, we create a state-sponsored university to be unparalleled in human history. 
+* A safe and peaceable location for our people to seek their destinies. For this reason, we establish a defense-only military. 
+* Mastery over life itself and exploration of the universe. To these ends, we create a state-sponsored university to be unparalleled in human history. 
 
 ## Rights and duties of the people
 * Right to bear arms - this is the right by which you defend all other rights
